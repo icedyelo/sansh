@@ -1,0 +1,57 @@
+ <header>
+       <div class="scroll-container">
+        <div id="scroll-text">
+            <h1 class="scroll-link"> ₍^ >ヮ<^₎ .ᐟ.ᐟ BORN TO OOF / WORLD IS A ### / Code Em All 404 / I am computer engineer / 410,757,864,530 CODED BUGS ༘ ⋆｡˚♡</h1>
+        </div>
+       </div>
+    </header> 
+
+    <a href="#" id="content" class="content">
+    <img src="assets/sansh.png" alt="sansh" class="cssanimation logo">
+    </a>
+
+    <div id="navbar" class="hidden">
+        <a href="#contact-page"><img src="assets/contact.png" alt="contact" class="contact"></a>
+        <a href="#about-page"><img src="assets/about.png" alt="about" class="about"></a>
+        <a href="#projects-page"><img src="assets/projects.png" alt="projects" class="projects"></a>
+    </div>
+    
+    <div class="mushroom">
+        <img src="assets/mushroom uwu.gif" alt="mooshi pink" class="mooshi">
+    </div>
+    
+    <div class="about-page" id="about-page">
+        <div class="profile">
+            <img src="assets/profile.png" alt="profile">
+        </div>
+        <div class="summary">
+            <h1>Hi!</h1>
+            <p></p>
+        </div>
+    </div> 
+    
+    <div class="projects-page" id="projects-page">
+        <img src="assets/tag1.png" alt="tag-project" class="projects-tag">
+        <div class="projects-container">
+            <div class="album">
+                <a href="https://www.figma.com/proto/wlBVQFvfulLFkGNnJQn9WU/finals?node-id=201-6&t=fzMEhJje82HOM1EO-1&scaling=contain&content-scaling=fixed&page-id=0%3A1" target="_blank"><img class="album-img-square" src="assets/danse.png" alt="danse macabre"></a>
+            </div>
+            <div class="album">
+                <img class="album-img-card" src="assets/farm4lands.png" alt="Farm4Lands">
+            </div>
+            <div class="album">
+             <a href="https://github.com/icedyelo/kithara" target="_blank"><img class="album-img-card" src="assets/kithara.png" alt="kithara"></a>
+             </div>
+             <div class="album">
+              <a href="https://ikasarang.wordpress.com/" target="_blank"> <img class="album-img-card" src="assets/ikasarang.png" alt="ikasarang"></a>
+                </div>
+                <div class="album">
+                <img class="album-img-card" src="assets/gameByte.png" alt="gameByte"> 
+                </div> -->
+
+    <div class="contact-page" id="contact-page">
+    </div>
+
+
+    <script src="navbar.js"></script>
+    <script src="projects.js"></script>
